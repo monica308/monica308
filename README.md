@@ -10,12 +10,3 @@ Atualmente estou aprendendo e criando projetos com:
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
-
-📊 **Linguagens mais usadas:**
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dracula)
-
-💻 **Estatísticas do GitHub:**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
