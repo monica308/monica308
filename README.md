@@ -14,7 +14,7 @@ Sou uma dev em construção constante — gosto de aprender na prática, quebran
 Adoro aquela sensação de fazer o código *funcionar de verdade*, e mais ainda quando ele resolve algo útil ou bonito.
 
 Atualmente focada em front-end, mas já de olho no back-end porque curiosidade é meu sobrenome.  
-Quando não tô codando, tô lendo, criando ou tentando entender como as coisas funcionam no detalhe.
+Quando não estou codando, estou lendo, criando ou tentando entender como as coisas funcionam no detalhe.
 
 ---
 
